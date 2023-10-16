@@ -1,0 +1,44 @@
+body{
+   background: url("https://rita.udistrital.edu.co:23604/adminlab/storage/imagenes_index/logoud.png")no-repeat;
+    background-size: cover;
+}
+
+.sesion1{
+    background-color: pink;
+    width: 420px;
+    height: 38px;
+    margin: auto;
+    padding-left: 20px;
+    padding-top: 15px;
+    
+
+}
+#sesion2{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+
+
+}
+#sesion3{
+     color: white;
+     text-decoration: none;
+     padding: 10px;
+}
+#sesion4{
+     color:white;
+     text-decoration: none;
+     padding: 10px;
+}
+
+#sesion2:hover{
+    background-color: blue;
+
+
+}
+#sesion3:hover{
+     background-color: blue;
+}
+#sesion4:hover{
+     background-color: blue;
+}

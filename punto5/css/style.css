@@ -1,0 +1,42 @@
+body{
+    background:url("https://impocali.com/wp-content/uploads/2022/04/moto-1-min.png")no-repeat;
+    background-size: cover;
+    
+}
+
+
+#sesion2{
+    color:red;
+    font-weight:bold;
+}
+#sesion5{
+    color: blue;
+    font-weight:bold ;
+
+}
+.sesion1{
+    color:green;
+    text-decoration: underline;
+}
+#sesion6{
+    color: red;
+    text-decoration:underline ;
+    font-weight:bold ;
+}
+.sesion7{
+    font-weight:bold ;
+    font-size: 40px;
+
+}
+ .sesion8{
+    text-decoration: underline overline;
+}
+.sesion9{
+    text-align: justify;
+    white-space: pre-line;
+
+}
+p{
+    text-align: center;
+
+}
